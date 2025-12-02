@@ -79,7 +79,7 @@ export default function RootLayout({
           <footer className="border-t border-slate-200 bg-slate-50 py-4 text-xs sm:py-6 sm:text-sm text-slate-500">
             <div className="mx-auto flex max-w-6xl flex-col items-center gap-2 px-4 sm:flex-row sm:justify-between sm:px-6">
               <p>© {new Date().getFullYear()} Harnoor Kaur</p>
-              <p className="text-slate-400">Research Portfolio</p>
+              <p className="text-slate-400"></p>
             </div>
           </footer>
         </div>

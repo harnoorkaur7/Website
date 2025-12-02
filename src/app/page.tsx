@@ -16,8 +16,8 @@ const Home: NextPage = () => {
               Yale University. I am excited about research in development,
               environment economics, and political economy! My work looks at
               political movements, climate agreements, social norms, gender
-              gaps, and other manifestations of contemporary inequality. You
-              can reach me at{" "}
+              gaps, and other manifestations of contemporary inequality. 
+              You can reach me at{" "}
               <a
                 href="mailto:harnoor.kaur@yale.edu"
                 className="text-blue-500 hover:text-emerald-700 underline break-all"
