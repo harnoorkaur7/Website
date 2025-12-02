@@ -25,7 +25,7 @@ const Home: NextPage = () => {
               </a>. I am excited about research in development,
               environment economics, and political economy! My work looks at
               political movements, climate agreements, social norms, gender
-              gaps, and other manifestations of contemporary inequality. 
+              gaps, and other manifestations of contemporary inequality. <br /><br /> 
 
               I hold an MSc in Economics from the <a
                 href="https://www.lse.ac.uk/economics"
@@ -43,7 +43,7 @@ const Home: NextPage = () => {
               >
                 Energy Policy Institute at the University of Chicago Trust (EPIC India)
               </a>. 
-              <br />
+              <br /><br />
               You can reach me at{" "}
               <a
                 href="mailto:harnoor.kaur@yale.edu"
