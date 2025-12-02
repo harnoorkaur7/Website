@@ -12,7 +12,7 @@ export default function ResearchPage() {
       <section className="space-y-3 border-b border-slate-200 pb-6 sm:space-y-4 sm:pb-8">
         
         <h2 className="text-2xl font-semibold text-slate-900 sm:text-3xl">
-          Publications
+          Research
         </h2>
       </section>
 
@@ -39,12 +39,11 @@ export default function ResearchPage() {
       {/* Work in progress */}
       <section className="space-y-3 border-t border-slate-200 pt-6 sm:pt-8">
         <h3 className="text-lg font-semibold text-slate-900 sm:text-xl">
-          Work in progress
+          Work in Progress
         </h3>
         <ul className="space-y-2 text-sm leading-relaxed text-slate-700 sm:text-base">
           <li>
-            <span className="font-semibold">Gender gaps?</span> with Maria Kogelnik. <i>Public
-            data collection completed</i>; expert data collection in progress.
+            <span className="font-semibold">Gender gaps?</span> with Maria Kogelnik. <br /><i>Publicdata collection completed; expert data collection in progress</i>.
           </li>
         </ul>
       </section>
