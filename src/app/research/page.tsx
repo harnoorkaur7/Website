@@ -43,8 +43,8 @@ export default function ResearchPage() {
         </h3>
         <ul className="space-y-2 text-sm leading-relaxed text-slate-700 sm:text-base">
           <li>
-            <span className="font-semibold">Gender gaps?</span> with Maria Kogelnik. Public
-            data collection completed; expert data collection in progress.
+            <span className="font-semibold">Gender gaps?</span> with Maria Kogelnik. <i>Public
+            data collection completed</i>; expert data collection in progress.
           </li>
         </ul>
       </section>
