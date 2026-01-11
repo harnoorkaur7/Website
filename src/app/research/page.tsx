@@ -44,7 +44,7 @@ export default function ResearchPage() {
         <ul className="space-y-2 text-sm leading-relaxed text-slate-700 sm:text-base">
           <li>
             <span className="font-semibold"> Gender gaps?</span> with Maria Kogelnik. <br /><i>Preliminary results available <a
-                href="https://www.dropbox.com/scl/fi/2n6211m8d884xzcpegv3v/gendergaps_v0.pdf?rlkey=b67e1u6htrc78pnlwqs6p2ica&st=dtlkcou2&dl=1"
+                href="https://www.dropbox.com/scl/fi/9jeehpj34h4f7vmnqec3u/gendergaps_v1.pdf?rlkey=dkznqb0lq1krw24djglpus5ic&st=uf60upy4&dl=1"
                 className="text-blue-500 hover:text-emerald-700"
               ><b>here</b></a></i>.
           </li>
