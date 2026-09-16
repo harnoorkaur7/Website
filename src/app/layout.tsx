@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/research", label: "Research" },
+  // { href: "/research", label: "Research" },
 ];
 
 export const metadata: Metadata = {

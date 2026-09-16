@@ -12,20 +12,7 @@ const Home: NextPage = () => {
               className="flex-1 text-base leading-relaxed text-slate-600 sm:text-lg"
               style={{ textAlign: "justify" }}
             >
-              Hi! I&apos;m a <a
-                href="https://egc.yale.edu/people/harnoor-kaur"
-                className="text-blue-500 hover:text-emerald-700"
-              >
-                predoctoral fellow
-              </a> at the <a
-                href="https://egc.yale.edu/"
-                className="text-blue-500 hover:text-emerald-700"
-              >
-                Economic Growth Center, Yale University
-              </a>. I am excited about research in development,
-              environmental economics, and political economy. My work examines
-              political movements, climate agreements, social norms, gender
-              gaps, and other manifestations of contemporary inequality. <br /><br /> 
+            Hi! I am excited about research in development, environmental economics, and political economy. My work examines social norms, perceptions, climate agreements, and other manifestations of contemporary inequality. <br /><br /> 
 
               I hold an MSc in Economics from the <a
                 href="https://www.lse.ac.uk/economics"
@@ -37,7 +24,17 @@ const Home: NextPage = () => {
                 className="text-blue-500 hover:text-emerald-700"
               >
                  Hindu College, University of Delhi
-              </a>. Prior to this, I worked on energy and environmental research at the <a
+              </a>. Prior to this, I worked as a <a
+                href="https://egc.yale.edu/people/harnoor-kaur"
+                className="text-blue-500 hover:text-emerald-700"
+              >
+                predoctoral fellow
+              </a> at the <a
+                href="https://egc.yale.edu/"
+                className="text-blue-500 hover:text-emerald-700"
+              >
+                Economic Growth Center, Yale University
+              </a>, and on energy and environmental research at the <a
                 href="https://www.lse.ac.uk/economics"
                 className="text-blue-500 hover:text-emerald-700"
               >
@@ -46,10 +43,10 @@ const Home: NextPage = () => {
               <br /><br />
               You can reach me at{" "}
               <a
-                href="mailto:harnoor.kaur@yale.edu"
+                href="mailto:kaur.harnoor33@gmail.com"
                 className="text-blue-500 hover:text-emerald-700"
               >
-                harnoor.kaur@yale.edu
+                kaur.harnoor33@gmail.com
               </a>
               .
             </p>
